@@ -7,22 +7,16 @@ We will use Google Earth Engine as the main platform, but be aware that there ar
 ## Instructors and Tutors:
 - Associate Professor Marta Yebra
 - Dr Nicolas Younes
+- Mr Chad Burton
 - Dr Abolfazl Abdollahi
 - Mrs Li Zhao
-- Mr Chad Burton
 
 ***
 ## Requirements
 1. You *must* have a gmail account to access Google Earth Engine.
-1. You *must* request access to Google Earth Engine. Follow [this link](https://earthengine.google.com/) to do it.
+2. You *must* request access to Google Earth Engine. Follow [this link](https://earthengine.google.com/) to do it.
+3. The `requirements.txt` describes the necessary python libraries to run the notebooks in this repository. The `Virtual_env_instructions.md` describe how to create a python virtual environment on the NCI from which to run these notebooks.
 
-***
-## Schedule
-Lectures:
->- Mondays and Tuesdays: *9am*
-
-Labs and practicals:
->- Wednesdays: *4-6pm*
 
 ***
 ## Syllabus
