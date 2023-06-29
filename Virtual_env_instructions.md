@@ -1,7 +1,7 @@
 The following set of instructions is intended for the creation of a shared Python virtual environment within a group.
 The Python standard library provides a lightweight solution for creating virtual environments via the `venv` module.
 
-Navigate to ENGN3903's NCI project directory:
+Navigate to ENGN3903's NCI project directory, `du53`:
 
     $ cd /scratch/du53
 
@@ -20,6 +20,6 @@ Activate the Virtual Environment: Use the source command to activate the virtual
 Install Required Packages:
 We have a list of required packages in the `/scratch/du53/requirement.txt` file. You can install these packages into your virtual environment using pip:
 
-    $ python3 -m pip install -r /scratch/vp91/requirement.txt
+    $ python3 -m pip install -r /scratch/du53/requirements.txt
 
 Please follow these instructions carefully to set up your shared virtual environment correctly.
