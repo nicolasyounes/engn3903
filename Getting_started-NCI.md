@@ -2,7 +2,7 @@
 
 ## What is the NCI?
 
-The [NCI](https://nci.org.au/) is Australia's pre-eminent, publicly-owned supercomputing facility located at Australia's National University.  In this course, we will use the NCI to conduct all our analysis. Along with computing infrastructure, the NCI also hosts a large number of Earth Observation datasets. While in this course we will focus on using Google Earth Engine datasets (streamed over the web), the NCI contains many of the same datasets.
+The [NCI](https://nci.org.au/) is Australia's pre-eminent, publicly-owned supercomputing facility located at Australia's National University.  In this course, we will use the NCI to conduct all of our analysis. Along with computing infrastructure, the NCI also hosts a large number of Earth Observation datasets. While in this course we will focus on using Google Earth Engine datasets (streamed over the web), the NCI contains many of the same datasets.
 
 ## Why use the NCI?
 
@@ -22,9 +22,9 @@ Go to the website: https://my.nci.org.au/mancini/signup/0 and follow the prompts
 
 ## Request access to project `du53`
 
-Datasets and compute resources on the NCI are located and managed within 'projects'. In order to use resources on the NCI, you need to request access to projects that cover the data and compute resources you need. The NCI has provided ENGN3903 with storage and compute resources for this course, located under the project ID `du53`. Once you have signed up to the NCI, log in [my-nci](https://my.nci.org.au/mancini/login?next=/mancini/). Once logged in, navigate to the "Projects-and-groups" tab, then request access to the du53 project
+Datasets and compute resources on the NCI are located and managed within 'projects'. In order to use resources on the NCI, you need to request access to projects that cover the data and compute resources you need. The NCI has provided ENGN3903 with storage and compute resources for this course, located under the project ID `du53`. Once you have signed up to the NCI, log in to [my-nci](https://my.nci.org.au/mancini/login?next=/mancini/). Once logged in, navigate to the "Projects-and-groups" tab, then request access to the `du53` project
 
 ![sign_up_for_project](/figures/sign_up_for_project.JPG)
 
-## 
+Once you have been accepted to project du53 (one of your course tutors will accept the request), use the instructions on the [Getting_started-JupyterLab-ARE](2_Getting_started-JupyterLab-ARE.md) notebook to launch a JupyterLab session on the NCI.
 
