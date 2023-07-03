@@ -32,3 +32,6 @@ Then click **'Advanced Options'** and fill out the following:
 Then **hit the blue "Launch" icon** to request the session.  This will redirect you to another page where your session will sit in a queue waiting to be created (the first 'card' in the image below). Once the session card turns green and the **"Open JupyterLab"** icon appears (the second card in the image below) you are ready to start the session.  The JupyterLab session will open in a new tab on your browser when you click the icon. 
 
 ![Waiting_to_launch](figures/Waiting_to_launch.PNG)
+
+## Next steps
+The next step is to use the instructions in (Getting_started-ENGN3903-Notebooks](Getting_started-ENGN3903-Notebooks.md) to begin working on the lab notebooks.

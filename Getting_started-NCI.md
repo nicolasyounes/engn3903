@@ -26,5 +26,6 @@ Datasets and compute resources on the NCI are located and managed within 'projec
 
 ![sign_up_for_project](/figures/sign_up_for_project.JPG)
 
+## Next steps
 Once you have been accepted to project du53 (one of your course tutors will accept the request), use the instructions on the [Getting_started-JupyterLab-ARE](2_Getting_started-JupyterLab-ARE.md) notebook to launch a JupyterLab session on the NCI.
 
