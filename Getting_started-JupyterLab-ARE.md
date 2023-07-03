@@ -18,17 +18,17 @@ Log in using your NCI account credentials. Once logged in, you will be redirecte
 ![ARE_dashboard](/figures/ARE_dashboard.PNG)
 
 We then need to set up a few parameters to launch our Jupterlab session. Mimicking the screenshot below, fill out the following parameters:
-* _Walltime_: `3` (this is how many hour your session will run)
+* _Walltime_: `3` (this is how many hours your session will run for)
 * _Queue_: `normalbw` (the NCI-gadi queue where the session wil be hosted)
-* _Project_: `du53` (the account under which the session will be accounted for)
-* _Storage_: `scratch/du53` Which directory will be accessible during the session
+* _Project_: `du53` (the account under which the session will run)
+* _Storage_: `scratch/du53` (Which directories will be accessible during the session)
 
-The click 'Advanaced Options' and fill out the following:
+Then click **'Advanced Options'** and fill out the following:
  * _Modules_: `python3/3.9.2` (the version of python we'll use)
- * _Python or Conda virtual environment base_: `/scratch/du53/engn3903_py392` (the location where a python virtual environment has been set-up specially for this course)
+ * _Python or Conda virtual environment base_: `/scratch/du53/engn3903_py392` (the location where a python virtual environment has been set-up for this course)
 
 ![ARE_dashboard](/figures/Launch_jupyterlab.PNG)
 
-Then **hit the blue "Lauch" icon** to request the session.  This will redirect you to another page where your session will sit in a queue waiting to be created (the first card in the image below). Once the session 'card' turns green and the ** "Open JupyterLab"** icon appears (the second card in the image below_, you are ready to start the session.  The JupyterLab session will open in a new tab on your browser when you click the icon. 
+Then **hit the blue "Launch" icon** to request the session.  This will redirect you to another page where your session will sit in a queue waiting to be created (the first 'card' in the image below). Once the session card turns green and the **"Open JupyterLab"** icon appears (the second card in the image below) you are ready to start the session.  The JupyterLab session will open in a new tab on your browser when you click the icon. 
 
 ![Waiting_to_launch](figures/Waiting_to_launch.PNG)
