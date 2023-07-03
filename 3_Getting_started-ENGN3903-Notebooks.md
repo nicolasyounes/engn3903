@@ -8,7 +8,7 @@ Once Jupyterlab has opened in your browser, you should see on the left of the sc
 
 ## Using git to acquire the ENGN3903 notebooks
 
-Open a terminal window (**use the blue + button** on the upper-left side on JupyterLab and click on the terminal icon to launch a new terminal). 
+Open a terminal window (**use the blue + button** of the upper-left side on JupyterLab and click on the _terminal_ icon to launch a new terminal). 
 
 Using the terminal, navigate to the folder you just created:
 
@@ -18,7 +18,7 @@ Now, lets 'clone' the ENGN3903 notebooks into your folder. Copy-and-paste the fo
     
     git clone https://github.com/nicolasyounes/engn3903.git
 
-You should now see a folder labelled `engn3903` in the file browser on the left. This folder contains all the lab notebooks from week-1 to week-9. Henceforth, whenever you open a jupyterlab session, simply navigate your folder, open the week we are up to, and within you will find the notebooks for that lab session.
+You should now see a folder labelled `engn3903` in the file browser on the left. This folder contains all the lab notebooks from week-1 to week-9. Henceforth, whenever you open a jupyterlab session, simply navigate to your folder, open the week we are up to, and within you will find the notebooks for that lab session.
  
 ![git_clone](/figures/git_clone.PNG)
     

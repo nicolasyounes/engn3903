@@ -7,7 +7,11 @@ The [ARE user-guide](https://opus.nci.org.au/display/Help/ARE+User+Guide) explai
 
 ## Starting a JupyterLab session
 
-The labs in ENGN3903 use a combination of Jupyterlab and Jupyter notebooks to explore remote-sensing concepts and datasets each week.  JupyterLab is a notebook authoring application and editing environment that includes may extensions and tools that make data exploration, control, and navigation easier. Jupyter notebooks are python computational notebooks that combine computer code, plain language descriptions, data, rich visualizations and interactive controls. A notebook, along with an editor like JupyterLab, provides a fast interactive environment for prototyping and explaining code, exploring and visualizing data, and sharing ideas with others.
+The labs in ENGN3903 use a combination of Jupyterlab and Jupyter notebooks to explore remote-sensing concepts and datasets each week.
+
+JupyterLab is a notebook authoring application and editing environment that includes may extensions and tools that make data exploration, control, and navigation easier.
+
+Jupyter notebooks are python computational notebooks that combine computer code, plain language descriptions, data, rich visualizations and interactive controls. A notebook, along with an editor like JupyterLab, provides a fast interactive environment for prototyping and explaining code, exploring and visualizing data, and sharing ideas with others.
 
 To launch a Jupyterlab session and begin working through the Jupyter notebooks in this course, navigate to the ARE Dashboard:
 
@@ -34,4 +38,4 @@ Then **hit the blue "Launch" icon** to request the session.  This will redirect 
 ![Waiting_to_launch](figures/Waiting_to_launch.PNG)
 
 ## Next steps
-The next step is to use the instructions in (Getting_started-ENGN3903-Notebooks](Getting_started-ENGN3903-Notebooks.md) to begin working on the lab notebooks.
+The next step is to use the instructions in [Getting_started-ENGN3903-Notebooks](3_Getting_started-ENGN3903-Notebooks.md) to begin working on the lab notebooks.
