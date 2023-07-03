@@ -7,7 +7,7 @@ The [ARE user-guide](https://opus.nci.org.au/display/Help/ARE+User+Guide) explai
 
 ## Starting a JupyterLab session
 
-The labs in ENGN3903 use a combination of Jupyterlab and Jupyter notebooks to explore remote-sensing concepts and datasets each week.  JupyterLab is a notebook authoring application and editing environment that includes may extensions and tools that make data exploration, control, and naviagtion easier. Jupyter notebooks are python computational notebook that combines computer code, plain language descriptions, data, rich visualizations and interactive controls. A notebook, along with an editor like JupyterLab, provides a fast interactive environment for prototyping and explaining code, exploring and visualizing data, and sharing ideas with others.
+The labs in ENGN3903 use a combination of Jupyterlab and Jupyter notebooks to explore remote-sensing concepts and datasets each week.  JupyterLab is a notebook authoring application and editing environment that includes may extensions and tools that make data exploration, control, and navigation easier. Jupyter notebooks are python computational notebooks that combine computer code, plain language descriptions, data, rich visualizations and interactive controls. A notebook, along with an editor like JupyterLab, provides a fast interactive environment for prototyping and explaining code, exploring and visualizing data, and sharing ideas with others.
 
 To launch a Jupyterlab session and begin working through the Jupyter notebooks in this course, navigate to the ARE Dashboard:
 
@@ -15,7 +15,7 @@ To launch a Jupyterlab session and begin working through the Jupyter notebooks i
 
 Log in using your NCI account credentials. Once logged in, you will be redirected to the ARE dashboard. Click on the "Start a JuypterLab instance" icon. 
 
-![ARE_dashboard](/figures/ARE_dashboard.png)
+![ARE_dashboard](/figures/ARE_dashboard.PNG)
 
 We then need to set up a few parameters to launch our Jupterlab session. Mimicking the screenshot below, fill out the following parameters:
 * _Walltime_: `3` (this is how many hour your session will run)
@@ -27,8 +27,8 @@ The click 'Advanaced Options' and fill out the following:
  * _Modules_: `python3/3.9.2` (the version of python we'll use)
  * _Python or Conda virtual environment base_: `/scratch/du53/engn3903_py392` (the location where a python virtual environment has been set-up specially for this course)
 
-![ARE_dashboard](/figures/Launch_jupyterlab.png)
+![ARE_dashboard](/figures/Launch_jupyterlab.PNG)
 
 Then **hit the blue "Lauch" icon** to request the session.  This will redirect you to another page where your session will sit in a queue waiting to be created (the first card in the image below). Once the session 'card' turns green and the ** "Open JupyterLab"** icon appears (the second card in the image below_, you are ready to start the session.  The JupyterLab session will open in a new tab on your browser when you click the icon. 
 
-![Waiting_to_launch](figures/Waiting_to_launch.png)
+![Waiting_to_launch](figures/Waiting_to_launch.PNG)
