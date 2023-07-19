@@ -2,7 +2,7 @@
 
 ## What is the NCI?
 
-The [NCI](https://nci.org.au/) is Australia's pre-eminent, publicly-owned supercomputing facility located at Australia's National University.  In this course, we will use the NCI to conduct all of our analysis. Along with computing infrastructure, the NCI also hosts a large number of Earth Observation datasets. While in this course we will focus on using Google Earth Engine datasets (streamed over the web), the NCI contains many of the same datasets.
+The [NCI](https://nci.org.au/) is Australia's pre-eminent, publicly-owned supercomputing facility located at Australia's National University.  In this course, we will use the NCI to conduct all of our analysis. Along with computing infrastructure, the NCI also hosts a large number of Earth Observation datasets. While in this course we will focus on using Google Earth Engine datasets (streamed over the web), the NCI contains many of the same datasets, albeit in different formats.
 
 ## Why use the NCI?
 
@@ -16,7 +16,7 @@ The [NCI](https://nci.org.au/) is Australia's pre-eminent, publicly-owned superc
 
 Before using the NCI, we first need to create an account. An Australian academic or government institutional email address is required to get access to the NCI.
 
-Go to the website: https://my.nci.org.au/mancini/signup/0 and follow the prompts to sign up to the NCI.
+**Go to the website: https://my.nci.org.au/mancini/signup/0 and follow the prompts to sign up to the NCI.**
 
 ![account_registration](/figures/nci_user_registration.png)
 

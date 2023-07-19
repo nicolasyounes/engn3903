@@ -1,9 +1,9 @@
 # Starting a JupyterLab Sesssion using the Australian Research Environment
 
-## What is the Australian Research Environment (ARE)
+## What is the Australian Research Environment (ARE)?
 In ENGN3903, we will exclusively use the JupyerLab app on ARE to conduct our weekly laboratory sessions.
 
-The [ARE user-guide](https://opus.nci.org.au/display/Help/ARE+User+Guide) explains that the ARE is a web-based graphical interface for performing your computational research. It combines the familiarity of your regular desktop/laptop with the power of NCI’s world-class research HPC capabilities. ARE gives you access to NCI’s Gadi supercomputer and data collections, all from a simple, graphical interface. ARE consists of a number of applications that support your research such as Virtual Desktop, JupyterLab, Terminal, etc.
+The [ARE user-guide](https://opus.nci.org.au/display/Help/ARE+User+Guide) explains that the ARE is a web-based graphical interface for performing your computational research. It combines the familiarity of your regular desktop/laptop with the power of NCI’s world-class research High Performance Computing (HPC) capabilities. ARE gives you access to NCI’s Gadi supercomputer and data collections, all from a simple, graphical interface. ARE consists of a number of applications that support research such as Virtual Desktop, JupyterLab, Terminal, etc.
 
 ## Starting a JupyterLab session
 
@@ -13,7 +13,7 @@ JupyterLab is a notebook authoring application and editing environment that incl
 
 Jupyter notebooks are python computational notebooks that combine computer code, plain language descriptions, data, rich visualizations and interactive controls. A notebook, along with an editor like JupyterLab, provides a fast interactive environment for prototyping and explaining code, exploring and visualizing data, and sharing ideas with others.
 
-To launch a Jupyterlab session and begin working through the Jupyter notebooks in this course, navigate to the ARE Dashboard:
+To launch a Jupyterlab session and begin working through the Jupyter notebooks in this course, **navigate to the ARE Dashboard:**
 
     https://are.nci.org.au
 
