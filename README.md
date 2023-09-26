@@ -20,7 +20,7 @@ We will use Google Earth Engine as the main platform, but be aware that there ar
 
 ***
 ## Syllabus
-Refer to Wattle site. https://programsandcourses.anu.edu.au/2022/course/ENGN3903#terms
+Refer to Wattle site or https://programsandcourses.anu.edu.au/2023/course/ENGN3903
 
 ***
 ## Communications
