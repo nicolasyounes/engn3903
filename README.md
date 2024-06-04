@@ -8,8 +8,8 @@ We will use Google Earth Engine as the main platform, but be aware that there ar
 - Associate Professor Marta Yebra
 - Dr Nicolas Younes
 - Mr Chad Burton
-- Dr Abolfazl Abdollahi
 - Dr Li Zhao
+- Gianluca Scortechini
 
 ***
 ## Requirements
@@ -33,9 +33,6 @@ Each folder contains the practical notebooks for a given week.
 
 ***
 ## Supporting documentation
-Refer to Wattle (add site)
+Refer to [Wattle](https://wattlecourses.anu.edu.au/course/view.php?id=41168))
 
 ***
-## Recommended Software
-- [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
-- [Jupyter Lab/Notebook](link)
