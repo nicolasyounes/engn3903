@@ -9,7 +9,7 @@ We will use Google Earth Engine as the main platform, but be aware that there ar
 - Dr Nicolas Younes
 - Mr Chad Burton
 - Dr Li Zhao
-- Mr Gianluca Scortechini
+- Mr Gianluca Scortechini 
 
 ***
 ## Requirements
