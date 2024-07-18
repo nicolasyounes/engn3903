@@ -28,8 +28,8 @@ We then need to set up a few parameters to launch our Jupyterlab session. Mimick
 * _Storage_: `scratch/du53` (Which directories will be accessible during the session)
 
 Then click **'Advanced Options'** and fill out the following:
- * _Modules_: `python3/3.9.2` (the version of python we'll use)
- * _Python or Conda virtual environment base_: `/scratch/du53/engn3903_py392` (the location where a python virtual environment has been set-up for this course)
+ * _Modules_: `python3/3.10.0` (the version of python we'll use)
+ * _Python or Conda virtual environment base_: `/scratch/du53/py310` (the location where a python virtual environment has been set-up for this course)
 
 ![ARE_dashboard](/figures/Launch_jupyterlab.PNG)
 
