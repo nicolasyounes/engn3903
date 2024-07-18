@@ -9,7 +9,7 @@ The [ARE user-guide](https://opus.nci.org.au/display/Help/ARE+User+Guide) explai
 
 The labs in ENGN3903 use a combination of Jupyterlab and Jupyter notebooks to explore remote-sensing concepts and datasets each week.
 
-JupyterLab is a notebook authoring application and editing environment that includes may extensions and tools that make data exploration, control, and navigation easier.
+JupyterLab is a notebook authoring application and editing environment that includes many extensions and tools that make data exploration, control, and navigation easier.
 
 Jupyter notebooks are python computational notebooks that combine computer code, plain language descriptions, data, rich visualizations and interactive controls. A notebook, along with an editor like JupyterLab, provides a fast interactive environment for prototyping and explaining code, exploring and visualizing data, and sharing ideas with others.
 
@@ -21,7 +21,7 @@ Log in using your NCI account credentials. Once logged in, you will be redirecte
 
 ![ARE_dashboard](/figures/ARE_dashboard.PNG)
 
-We then need to set up a few parameters to launch our Jupterlab session. Mimicking the screenshot below, fill out the following parameters:
+We then need to set up a few parameters to launch our Jupyterlab session. Mimicking the screenshot below, fill out the following parameters:
 * _Walltime_: `3` (this is how many hours your session will run for)
 * _Queue_: `normalbw` (the NCI-gadi queue where the session wil be hosted)
 * _Project_: `du53` (the account under which the session will run)
