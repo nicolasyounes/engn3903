@@ -23,7 +23,7 @@ Log in using your NCI account credentials. Once logged in, you will be redirecte
 
 We then need to set up a few parameters to launch our Jupyterlab session. Mimicking the screenshot below, fill out the following parameters:
 * _Walltime_: `3` (this is how many hours your session will run for)
-* _Queue_: `normalbw` (the NCI-gadi queue where the session wil be hosted)
+* _Queue_: `normal` (the NCI-gadi queue where the session wil be hosted)
 * _Project_: `du53` (the account under which the session will run)
 * _Storage_: `scratch/du53` (Which directories will be accessible during the session)
 
