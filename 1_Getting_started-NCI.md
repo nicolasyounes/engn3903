@@ -22,7 +22,7 @@ Before using the NCI, we first need to create an account. An Australian academic
 
 ## Request access to project `du53`
 
-Datasets and compute resources on the NCI are located and managed within 'projects'. In order to use resources on the NCI, you need to request access to projects that cover the data and compute resources you need. The NCI has provided ENGN3903 with storage and compute resources for this course, located under the project ID `du53`. Once you have signed up to the NCI, log in to [my-nci](https://my.nci.org.au/mancini/login?next=/mancini/). Once logged in, navigate to the "Projects-and-groups" tab, then request access to the `du53` project
+Datasets and compute resources on the NCI are allocated and managed within 'projects'. In order to use resources on the NCI, you need to request access to projects that cover the data and compute resources you need. The NCI has provided ENGN3903 with storage and compute resources for this course, located under the project ID `du53`. Once you have signed up to the NCI, log in to [my-nci](https://my.nci.org.au/mancini/login?next=/mancini/). Once logged in, navigate to the "Projects-and-groups" tab, then request access to the `du53` project
 
 ![sign_up_for_project](/figures/sign_up_for_project.JPG)
 
