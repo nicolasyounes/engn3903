@@ -1,4 +1,4 @@
-# Starting a JupyterLab Sesssion using the Australian Research Environment
+# Starting a JupyterLab Session using the Australian Research Environment
 
 ## What is the Australian Research Environment (ARE)?
 In ENGN3903, we will exclusively use the JupyerLab app on ARE to conduct our weekly laboratory sessions.
