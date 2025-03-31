@@ -5,11 +5,11 @@ Navigate to ENGN3903's NCI project directory, `du53`:
 
     $ cd /scratch/du53
 
-Load the Appropriate Python Version: Ensure you're using the Python version compatible with geemap, such as Python 3.9.2:
+Load the Appropriate Python Version: Ensure you're using the Python version compatible with geemap, such as Python 3.10.0:
 
     $ module load python3/3.10.0
 
-Create the Virtual Environment: Use Python's built-in venv module to create a virtual environment. We'll name this environment "engn3903_py392":
+Create the Virtual Environment: Use Python's built-in venv module to create a virtual environment. We'll name this environment "py310":
 
     $ python3 -m venv py310
 
