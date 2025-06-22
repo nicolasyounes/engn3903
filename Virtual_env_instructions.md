@@ -7,11 +7,11 @@ Navigate to ENGN3903's NCI project directory, `du53`:
 
 Load the Appropriate Python Version: Ensure you're using the Python version compatible with geemap, such as Python 3.10.0:
 
-    $ module load python3/3.10.0
+    $ module load python3/3.11.0
 
-Create the Virtual Environment: Use Python's built-in venv module to create a virtual environment. We'll name this environment "py310":
+Create the Virtual Environment: Use Python's built-in venv module to create a virtual environment. We'll name this environment "py311":
 
-    $ python3 -m venv py310
+    $ python3 -m venv py311
 
 Activate the Virtual Environment: Use the source command to activate the virtual environment:
 
