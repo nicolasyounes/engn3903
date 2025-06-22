@@ -15,7 +15,7 @@ Create the Virtual Environment: Use Python's built-in venv module to create a vi
 
 Activate the Virtual Environment: Use the source command to activate the virtual environment:
 
-    $ source py310/bin/activate
+    $ source py311/bin/activate
 
 Install Required Packages:
 We have a list of required packages in the `/scratch/du53/requirement.txt` file. You can install these packages into your virtual environment using pip:
