@@ -2,7 +2,6 @@ urllib3==1.26.0
 geemap
 geemap[raster]
 geemap[vector]
-xee
 eemont==0.3.6
 jupyterlab==4.2.3
 jupyter-resource-usage
@@ -12,3 +11,4 @@ gdown==4.7.1
 seaborn
 pandas
 ffmpeg-python
+xee
