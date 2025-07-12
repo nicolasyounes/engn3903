@@ -11,4 +11,5 @@ gdown==4.7.1
 seaborn
 pandas
 ffmpeg-python
+contextily
 xee
