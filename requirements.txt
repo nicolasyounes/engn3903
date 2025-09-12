@@ -2,14 +2,11 @@ urllib3==1.26.0
 geemap
 geemap[raster]
 geemap[vector]
-eemont==0.3.6
-jupyterlab==4.2.3
-jupyter-resource-usage
-jupyter-server==2.6.0
-wxee==0.4.0
-gdown==4.7.1
-seaborn
-pandas
+eemont
+wxee
 ffmpeg-python
-contextily
-xee
+gdown==4.7.1
+dea-tools[notebooks]>0.4
+# jupyterlab==4.2.3
+# jupyter-resource-usage
+# jupyter-server==2.6.0
