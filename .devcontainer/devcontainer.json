@@ -7,8 +7,8 @@
       "installJupyterlab": true
     }
   },
-  // Run setup + launch script AFTER container is created (blocking)
-  "postCreateCommand": "bash .devcontainer/setup_and_launch.sh",
+  // Ensure dependencies are installed before VS Code opens
+  "postCreateCommand": "pip install -r requirements.txt",
   "forwardPorts": [8888],
   "portsAttributes": {
     "8888": {
@@ -31,3 +31,4 @@
     }
   }
 }
+
