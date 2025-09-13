@@ -1,10 +1,11 @@
+jupyterlab==4.2.3
+jupyter-resource-usage
+jupyter-server==2.6.0
 urllib3==1.26.0
 geemap
 geemap[raster]
 geemap[vector]
 eemont
-jupyter-resource-usage
-jupyter-server==2.6.0
 wxee==0.4.0
 gdown==4.7.1
 seaborn
