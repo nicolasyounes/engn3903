@@ -9,6 +9,7 @@
   },
   // Ensure dependencies are installed before VS Code opens
   "postCreateCommand": "pip install -r requirements.txt",
+  "postStartCommand": "nohup jupyter lab --ip 0.0.0.0 --port 8888 --no-browser --NotebookApp.token='' > /tmp/jupyter.log 2>&1 &",
   "hostRequirements": {
     "cpus": 2,
     "memory": "8gb",
