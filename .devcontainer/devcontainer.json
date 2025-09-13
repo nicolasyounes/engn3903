@@ -8,14 +8,6 @@
     }
   },
   "postCreateCommand": "pip install -r requirements.txt",
-  "postStartCommand": "nohup jupyter lab --ip 0.0.0.0 --port 8888 --no-browser --NotebookApp.token='' > /tmp/jupyter.log 2>&1 &",
-  "forwardPorts": [8888],
-  "portsAttributes": {
-    "8888": {
-      "label": "JupyterLab",
-      "onAutoForward": "openBrowser"
-    }
-  },
   "hostRequirements": {
     "cpus": 2,
     "memory": "8gb",
@@ -23,6 +15,9 @@
   },
   "customizations": {
     "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python"
+      },
       "extensions": [
         "ms-python.python",
         "ms-toolsai.jupyter",
