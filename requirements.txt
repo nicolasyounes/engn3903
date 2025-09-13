@@ -1,12 +1,8 @@
-urllib3==1.26.0
+dea-tools[notebooks]>0.4
 geemap
-geemap[raster]
 geemap[vector]
 eemont
 wxee
 ffmpeg-python
 gdown==4.7.1
-dea-tools[notebooks]>0.4
-# jupyterlab==4.2.3
-# jupyter-resource-usage
-# jupyter-server==2.6.0
+urllib3==1.26.0
