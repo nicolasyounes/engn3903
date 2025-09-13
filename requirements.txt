@@ -3,7 +3,6 @@ geemap
 geemap[raster]
 geemap[vector]
 eemont==0.3.6
-jupyterlab==4.2.3
 jupyter-resource-usage
 jupyter-server==2.6.0
 wxee==0.4.0
