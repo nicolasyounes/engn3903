@@ -5,7 +5,7 @@ We will use Google Earth Engine as the main platform, but be aware that there ar
 
 ***
 ## Instructors and Tutors:
-- Associate Professor Marta Yebra
+- Professor Marta Yebra
 - Mr Chad Burton
 - Dr Nicolas Younes
 
