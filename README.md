@@ -23,7 +23,7 @@ We will use Google Earth Engine as the main platform, but be aware that there ar
 
 > [!TIP]
 > Allow CodeSpaces a few minutes to bootup and for all python libraries to install. 
-> To **open Jupyterlab** within the default VSCode session (if you perfer that IDE), in the terminal run `jupyter lab --no-browser --NotebookApp.token=''`, and jupyter lab will open in a seperate browser tab. Note, you may have to **disable any pop-up blockers** in your browser. Alternatively, you can configure your Github CodeSpaces settings to open Jupyterlab by default; go to [Editor preferences](https://github.com/settings/codespaces).
+> To **open Jupyterlab** within the default VSCode session (if you perfer that IDE), in the terminal run `jupyter lab --no-browser --NotebookApp.token=''`, and jupyter lab will open in a seperate browser tab. Note, you may have to **disable any pop-up blockers** in your browser.
 
 > [!WARNING]  
 > When you open a Codespace, the compute time is billed to **your own GitHub account** (using your free monthly allowance or any paid plan you may have).
