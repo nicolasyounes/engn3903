@@ -8,6 +8,13 @@
     }
   },
   "postCreateCommand": "pip install -r requirements.txt",
+  "forwardPorts": [8888],
+  "portsAttributes": {
+    "8888": {
+      "label": "JupyterLab",
+      "onAutoForward": "openBrowser"
+    }
+  },
   "hostRequirements": {
     "cpus": 2,
     "memory": "8gb",
